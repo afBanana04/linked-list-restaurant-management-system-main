@@ -1,0 +1,3 @@
+6,My Chuc,320.00,1717244146,0,25,Tiramisu,4,320.00
+7,Phuong Nhi,115.00,1717244234,0,2,Dorayaki,1,25.00,Orange Juice,2,90.00
+8,Mai Trang,160.00,1717847683,0,15,Tiramisu,2,160.00

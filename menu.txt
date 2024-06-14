@@ -1,0 +1,8 @@
+1,Tiramisu,80.00
+2,Cheese Cake,129.50
+3,Pizza,228.00
+4,Orange Juice,45.00
+5,Apple Juice,47.50
+6,Dorayaki,25.00
+7,Steak,229.00
+8,Pho Bo,35.50

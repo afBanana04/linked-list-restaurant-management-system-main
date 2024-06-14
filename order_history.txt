@@ -1,0 +1,4 @@
+1,Bao Anh,936.00,1717242777,1,26,Pizza,2,456.00,Tiramisu,6,480.00
+3,Thu Ha,195.00,1717243621,1,16,Apple Juice,2,95.00,Dorayaki,4,100.00
+2,Thanh Son,774.00,1717242830,1,25,Orange Juice,4,160.00,Cheese Cake,2,294.00,Tiramisu,4,320.00
+4,Bao Chau,320.00,1717243774,1,24,Tiramisu,4,320.00
